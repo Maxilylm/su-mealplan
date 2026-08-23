@@ -2,7 +2,7 @@
 
 > Generate a full seven-day meal plan and grocery list from your dietary restrictions and preferences.
 
-**[Live demo](https://su-mealplan.vercel.app)**
+**[Live demo](https://mealplan-mlx.vercel.app)**
 
 MealPlan turns a few inputs — dietary restrictions, food preferences, number of people, and budget — into a complete week of meals. An LLM returns breakfast, lunch, dinner, and a snack for each day with prep times and calorie counts, plus a categorized grocery list covering the whole week and a set of meal-prep tips. It strictly honors allergies and other restrictions and scales portions to your household.
 
@@ -31,4 +31,4 @@ Set `GROQ_API_KEY` in `.env.local`.
 
 ---
 
-Part of a series of 91 small web apps. [Browse them all](https://su-slopmachine.vercel.app).
+Part of a series of 91 small web apps. [Browse them all](https://lorenzoylosada.vercel.app).
